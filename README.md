@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Completed the ["Blogger"](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails) project of the "The Odin Projet" where I followed step by step the indications of the course.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Heroku Link:
+https://enigmatic-shore-20767.herokuapp.com/
